@@ -1,8 +1,6 @@
 body {
-    background: black;
+    background: lightseagreen;
     text-align: center;
-    background-image: url('./img/clockback.jpg');
-    background-repeat: no-repeat;
 
 
 }
@@ -16,7 +14,7 @@ select {
 
 h1 {
   font-size: 60px;
-  color: lightseagreen;
+  color: #fff;
 }
 
 
