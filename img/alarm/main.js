@@ -8,7 +8,7 @@ var startstop = document.getElementById('startstop');
 var currentTime;
 var alarmElement;
 var activeAlarm = false;
-var sound = new Audio('alarm.mp3');
+var sound = new Audio('./alarm.mp3');
     sound.loop = true;
 
 function showTime(){
@@ -74,9 +74,3 @@ startstop.onclick = function(){
 
     }
 }
-
-
-
-
-
-
